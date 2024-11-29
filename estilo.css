@@ -1,4 +1,4 @@
-<header{
+header{
     color: red;
     background-color: #4CFF;
     padding: 50PX;
@@ -24,12 +24,13 @@ nav {
 }
 .container h2{
     color: blue;
-    
+}
+
 .container p{
     color: #006600;
 }
 
-footer{
+footer {
     background-color: #066660;
     color: white;
     text-align: center;
