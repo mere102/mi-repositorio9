@@ -14,8 +14,25 @@ nav a{
 nav {
     text-align: center;
 }
-.container1{
+.container{
     width: 90%;
     margin: 20px auto;
     padding: 15px;
+    background-color: #80f4;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.container h2{
+    color: blue;
+    
+.container p{
+    color: #006600;
+}
+
+footer{
+    background-color: #066660;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+    margin-top: 20px;
 }
